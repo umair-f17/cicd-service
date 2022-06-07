@@ -26,11 +26,11 @@ substitutions:
     #GCP Specific configuration. Please DON'T change anything
     _PROJECT: learn-gcp-with-mahesh
     _ZONE: asia-south1-a
-    _GKE_CLUSTER: learn-gcp-with-mahesh-gke-cluster
+    _GKE_CLUSTER: learn-gcp-with-mahesh-umair
     
     #Repository Specific configuration. DevOps can change this settings
-    _DEPLOYMENTNAME: hello-world-service
-    _CONTAINERNAME: hello-world-service    
+    _DEPLOYMENTNAME: hello-world-service-by-umair
+    _CONTAINERNAME: hello-world-service-by-umair 
     _REPO_NAME: cicd-service
     
     # Developers ONLY change
